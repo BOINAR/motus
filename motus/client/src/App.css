@@ -1,0 +1,51 @@
+
+
+td {
+   border : 1px solid floralwhite;
+   
+}
+
+:root {
+    height: 100vh;
+    background-image: linear-gradient(to top, #8cc9ff, #74b7f1, #5ba4e3, #3f92d5, #1681c7);
+    
+}
+.t-style {
+   border-collapse: collapse;
+   min-width: 500px;
+   width: auto;
+   cursor: pointer;
+   margin: 240px auto;
+   color: floralwhite;
+   text-align: center;
+  
+  
+}
+
+th,td {
+    padding: 32px 32px;
+    background-image:linear-gradient(to bottom, #11A7FF, #0065CF) ;
+    text-shadow: 2px 2px 2px #00000099;
+   
+   
+    
+}
+
+
+.wellplaced{
+
+    background:  red;
+}
+
+.misplaced  {
+background: yellow;
+border-radius: 50%;
+
+   
+}
+
+
+
+
+
+
